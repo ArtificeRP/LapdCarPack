@@ -3,20 +3,10 @@
   <residentTxd>vehshare</residentTxd>
   <residentAnims />
   <InitDatas>
-
-
-
-
-
-
-
-
-
-
     <Item>
-      <modelName>sjcop1</modelName>
-      <txdName>sjcop1</txdName>
-      <handlingId>sjcop1</handlingId>
+      <modelName>srtday20</modelName>
+      <txdName>widebody</txdName>
+      <handlingId>PDwidebody</handlingId>
       <gameName>charger</gameName>
       <vehicleMakeName>dodge</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
@@ -25,7 +15,7 @@
       <animConvRoofName>null</animConvRoofName>
       <animConvRoofWindowsAffected />
       <ptfxAssetName>null</ptfxAssetName>
-      <audioNameHash>FBI</audioNameHash>
+      <audioNameHash>buffalo4</audioNameHash>
       <layout>LAYOUT_STANDARD</layout>
       <coverBoundOffsets>DOMINATOR_COVER_OFFSET_INFO</coverBoundOffsets>
       <explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>

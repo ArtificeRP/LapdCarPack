@@ -3,7 +3,7 @@
 <CHandlingDataMgr>
   <HandlingData>
       <Item type="CHandlingData">
-      <handlingName>sjcop1</handlingName>
+      <handlingName>PDwidebody</handlingName>
        <fMass value="1650.000000"/>
     <fInitialDragCoeff value="17.900000"/>
     <fPercentSubmerged value="85.000000"/>
