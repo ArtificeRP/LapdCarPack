@@ -1,5 +1,8 @@
 # LapdCarPack
 this is a work in progress lapd/nopixel inspired car pack i will be updating this everyday that i can
+If your looking for something that's a exact replica of no pixels liveries that are super high quality then head over to trclassics tebex 
+https://trclassic.tebex.io/package/5207048
+
 
 2020 Dodge Charger SRT Hellcat WideBody model -
 https://www.lcpdfr.com/downloads/gta5mods/vehiclemodels/38871-2020-dodge-charger-srt-hellcat-widebody/
