@@ -1,5 +1,5 @@
 # LapdCarPack
-this is a work in progress lapd/nopixel inspired car pack i will be updating this everyday that i can
+this is a work in progress lapd design/nopixel inspired car pack i will be updating this everyday that i can
 If  your looking for something that's a exact replica of no pixels liveries that are super high quality and have a couple bucks to spend then head over to trclassics tebex
 https://trclassic.tebex.io/package/5207048
 
