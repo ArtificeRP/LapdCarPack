@@ -17,3 +17,6 @@ https://www.lcpdfr.com/downloads/gta5mods/vehiclemodels/27688-non-elsfivem-ready
 2019 Chevrolet Corvette ZR1 - 
 https://www.gta5-mods.com/vehicles/chevrolet-corvette-zr1-need-for-speed-hot-pursuit-scpd-bcso-add-on-els
 
+[FiveM Ready][Non-ELS] 2011 Crown Victoria 1.0.0 -
+https://www.lcpdfr.com/downloads/gta5mods/vehiclemodels/23301-fivem-readynon-els-2011-crown-victoria/
+
