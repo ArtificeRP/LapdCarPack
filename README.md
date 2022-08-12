@@ -4,6 +4,7 @@ If  your looking for something that's a exact replica of no pixels liveries that
 https://trclassic.tebex.io/package/5207048
 
 CREDITS TO:
+
 2020 Dodge Charger SRT Hellcat WideBody model -
 https://www.lcpdfr.com/downloads/gta5mods/vehiclemodels/38871-2020-dodge-charger-srt-hellcat-widebody/
 
