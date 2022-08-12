@@ -13,3 +13,7 @@ https://www.lcpdfr.com/downloads/gta5mods/vehiclemodels/30250-2018-ford-mustang-
 
 [NON-ELS/FIVEM READY] 2016 Dodge Challenger SRT Hellcat Police 1.0.0 -
 https://www.lcpdfr.com/downloads/gta5mods/vehiclemodels/27688-non-elsfivem-ready-2016-dodge-challenger-srt-hellcat-police/
+
+2019 Chevrolet Corvette ZR1 - 
+https://www.gta5-mods.com/vehicles/chevrolet-corvette-zr1-need-for-speed-hot-pursuit-scpd-bcso-add-on-els
+
