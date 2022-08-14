@@ -24,3 +24,6 @@ Police Raptor Lifted Towtruck 0.2 -
 
 https://www.gta5-mods.com/vehicles/police-raptor-towtruck
 
+2020 ford Explorer -
+https://gtapolicemods.com/files/file/2309-2020-ford-explorer-fivem-ready/
+
