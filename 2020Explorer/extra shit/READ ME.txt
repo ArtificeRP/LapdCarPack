@@ -1,0 +1,83 @@
+Secondish vehichle. Please point out any issues with it
+
+one notes before i start 
+
+WILL I DO AN ELS VERSION?
+SHORT ANSWER: No.
+Long answer: Maybe, it just depends on if i feel up for it, since i want to work on other projects.
+
+
+Extra Setup:
+NON ELS
+Extra 1: Lightbar
+Extra 2: Front dash Lights
+Extra 4: SIDE runners
+Extra 5: Rear Lightbar
+Extra 6: Rambar
+Extra 7: Cage and rear partition
+Extra 8: Spotlight
+
+
+FILE CONTENTS:
+Extras folder (Has the templates inside)
+20explo folder(has the Non-Els vehicle files inside set up for FiveM)
+Screenshots folder
+Readme.txt
+
+
+I'm GateKeeper#5188 on discord if you have any questions, comments or concerns about this file. (I have tested this file in my home host server, however i cant garuntee that it will work with all mods for fivem)
+Please leave a comment(or send a dm) if you find anything wrong with the file
+
+ 
+
+TOS
+Do not rip or attempt to unlock the vehicle model included
+Do not reupload or attempt to claim that this is yours
+Don't do anything illegal with this
+Beside that, use this for what you want(IE skins, FiveM RP server usage, exc)
+
+ 
+
+IF I MISSED A CREDIT PLEASE DM ME SO I CAN GET IT FIXED OR IF THERE IS ANY ISSUE RELATED TO ME USING YOUR PART
+
+Simple light pattern showcase:
+https://youtu.be/BPME-YVRSX8
+
+CREDITS 
+BASE MODEL
+2020 Ford Police Interceptor Utility by HP Deskjet
+Rebuilt by BlueGhost (Materials, template, dirt, windows, collisions, LODs)
+Textures by Rockstar, HP Deskjet, Hurk, Desmond, Turn 10, BlueGhost
+Rearview mirror by Hurk/Underwood
+LIGHTBAR
+48 INCH VALOR LIGHTBAR by Dan with the Van! #0420
+ALPRS
+Made by Billy J Modifications
+DASH LIGHT
+Federal Signal XStream by Dan with the Van! #0420
+PUSHBAR
+2020 FPIU WESTIN PUSHBAR by Bullzeye
+PUSHBAR EQUIPMENT
+Code 3 C3500U Siren Speaker modeled, Textured and UV mapped by Dan with da van
+StarChase Pursuit Management System Deployment System by Him1250 (This is basically a thing that fires a tracking device onto a vehicle that you are pursuing)
+PUSHBAR LIGHTING
+FedSig Impaxx (6 module) made by krul, with Some textures by OfficerFiveO
+Federal Signal Micropulse Ultra: Federal signal for design, Dan with da van for Modeling, Texturing and converting.
+SIDE RUNNERS
+FENIX Side Rocker by RAZ3R - Officertenpenny
+REAR Lightbar
+FS CN SignalMaster modeled and textured by Cj24
+SPOTLIGHT
+Unity LED spotlight modeled and textured by Cj24
+PARTITIONS
+SENTINA RP Partition Pack by Billy J Modifications
+Sentina Cargo Barrier Scratch modelled by eknjack, Textures by Walters
+INTERIOR EQUIPMENT
+Motorola APX 6500 Modeled, Textured and UV mapped by Dan with da van
+Harris 7100 Modelled & Textured By Jakub
+Federal Signal siren controller modeled and textured by Cj24
+Brother PocketJet Printer by Billy J Modifications, Emissives done my me, GateKeeper#5188
+Toughbook CF-31 modeled and textured by Cj24
+Stalker Radar Modelled & Textured by Jakub
+Laptop Stand by Twurtleee
+Console Model & Textures by CJ24, Edited by Jakub
